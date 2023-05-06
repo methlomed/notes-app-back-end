@@ -1,1 +1,1 @@
-console.log("Halo meth, this is RESRful API");
+console.log("Halo meth, this is RESTful API");
